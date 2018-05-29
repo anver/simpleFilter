@@ -1,1 +1,5 @@
-.vscode
+/.vscode
+/vendor
+/bower_components
+/composer.lock
+/composer.json
